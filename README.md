@@ -1,0 +1,2 @@
+# Nim-
+Jogo do nim 
